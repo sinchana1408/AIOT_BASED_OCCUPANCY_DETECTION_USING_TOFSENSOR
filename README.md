@@ -96,4 +96,4 @@ VL53L0X ──I2C2──> STM32L4S5 ──USB/WiFi──> collect_*.py
                                                  │
                                     React Dashboard (:5173)
 ```
-![Project Screenshot](./Screenshot 2026-04-27 131808.png)
+![Project Screenshot](./Screenshot%202026-04-27%20131808.png)
