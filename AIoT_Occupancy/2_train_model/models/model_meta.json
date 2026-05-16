@@ -1,0 +1,23 @@
+{
+  "feature_cols": [
+    "distance_mm",
+    "dist_norm",
+    "zone",
+    "velocity",
+    "velocity_abs",
+    "zone_cross",
+    "roll_mean_3",
+    "roll_std_3",
+    "roll_range_3",
+    "roll_mean_5",
+    "roll_std_5",
+    "roll_range_5",
+    "roll_mean_10",
+    "roll_std_10",
+    "roll_range_10",
+    "roll_min_10",
+    "roll_max_10"
+  ],
+  "sensor_range_mm": 2000,
+  "door_width_mm": 900
+}

@@ -1,0 +1,14 @@
+cd AIot_Occupancy
+
+
+cd 2_train_model
+python train_occupancy_model.py
+
+cd 2_train_model
+uvicorn server:app --reload --port 8000
+
+cd 4_frontend
+npm install
+npm run 
+npm run dev
+
